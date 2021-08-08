@@ -1,0 +1,2 @@
+* You can init a non-empty directory.
+* Create a remote, clone, add code. Much easier.
